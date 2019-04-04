@@ -1,0 +1,3 @@
+rootProject.name = 'vidpt_1947'
+
+include ':app'
